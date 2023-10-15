@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?> <!--*- mode: xml -*-->
+<!DOCTYPE glade-project SYSTEM "http://glade.gnome.org/glade-project-2.0.dtd">
+
+<glade-project>
+  <name>Nouvelle version</name>
+  <program_name>nouvelle-version</program_name>
+  <pixmaps_directory>pixmap</pixmaps_directory>
+  <gnome_support>FALSE</gnome_support>
+</glade-project>
